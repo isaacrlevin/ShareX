@@ -6,7 +6,7 @@ description: "This definition is for the ShareX backend engineering environment"
 tasks:
   - name: ~/winget
     parameters:
-      downloadUrl: 'https://raw.githubusercontent.com/isaacrlevin/ShareX/main/.configurations/common-config.dsc.yaml'
+      downloadUrl: 'https://raw.githubusercontent.com/isaacrlevin/ShareX/develop/.configurations/common-config.dsc.yaml'
 
   - name: ~/winget
     description: Install Docker
